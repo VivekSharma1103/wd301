@@ -17,7 +17,7 @@ function App() {
         <h1 className='text-3xl text-center mb-4 font-bold '>Done</h1>
         <TaskCard Title={title[2]} duedate={" 10th April"} name={" Rohit M"} list={work[1]}/>
         <TaskCard Title={title[3]} duedate={" 20th April"} name={" Ajay S"} list={work[1]}/>
-        <TaskCard Title={title[3]} duedate={" 20th April"} name={" Ajay S"} list={work[1]}/>
+        
         
       </div>
     </div>
